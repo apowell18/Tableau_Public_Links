@@ -2,7 +2,7 @@
 List of Tableau Public Links
 
 ## Amazon's Best Sellers (2009-2019) 
-https://public.tableau.com/shared/K4YHRQXSQ?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AmazonsBestSellers2009-2019/AmazonsBestsellers?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Kaggle Dataset: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
 
@@ -17,3 +17,4 @@ Using Data from Accenture Data Analysis Virtual Experience, I decided to explore
 https://public.tableau.com/views/SocialBuzzDataExplorationVisualization/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## World Poplation Suicide vs Happiness Analysis. 
+https://public.tableau.com/shared/3JNG8PR6S?:display_count=n&:origin=viz_share_link
