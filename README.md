@@ -11,3 +11,9 @@ Provided a graph showcasing the bestselling books by average user ratings. Viewe
 ## Customer Analysis
 Hands-On Data Science: 2 Sales Dashboards with Tableau. Linkedin Learning Course by Ben Sullins and Free the Data Academy.
 https://public.tableau.com/views/Hands-OnDataScienceCustomerAnalysis/CustomerAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+
+## Social Buzz Data Exploration: Case Study
+Using Data from Accenture Data Analysis Virtual Experience, I decided to explore the dataset and identify any iteresting trends. 
+https://public.tableau.com/views/SocialBuzzDataExplorationVisualization/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+## World Poplation Suicide vs Happiness Analysis. 
